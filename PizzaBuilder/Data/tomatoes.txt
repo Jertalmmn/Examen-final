@@ -1,4 +1,4 @@
-Cherry: 138
+Cherry: 134
 Roma: 0
 Beefsteak: 200
 Heirloom: 48

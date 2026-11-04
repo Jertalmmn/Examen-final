@@ -1,4 +1,4 @@
-Pepperoni: 300
+Pepperoni: 295
 Bacon: 180
 Chicken: 220
 Shrimp: 150
